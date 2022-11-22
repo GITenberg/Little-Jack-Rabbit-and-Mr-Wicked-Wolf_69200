@@ -8,6 +8,9 @@ contributor:
     deathdate: 1961
     gutenberg_agent_id: '24752'
     url: http://www.gutenberg.org/2009/agents/24752
+covers:
+- cover_type: archival
+  image_path: 69200-h/images/cover.jpg
 creator:
   author:
     agent_name: Cory, David
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/871
     wikipedia: https://en.wikipedia.org/wiki/David_Cory_(author)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69200#Little-Jack-Rabbit-and-Mr-Wicked-Wolf
 gutenberg_issued: '2022-10-21'
 identifiers:
   gutenberg: '69200'
